@@ -32,14 +32,7 @@ npm install
 
 # Run development server
 npm run dev        # http://localhost:3000
-
-# Type-check and validate
-npx tsc --noEmit
-npm run lint
 ```
-
-> **Zero Setup Required:** LocalFlow runs 100% offline out-of-the-box. All geo-calculations, feasibility logic, intent parsing, and scoring execute deterministically in-process.
-
 ---
 
 ## The Demo Path
